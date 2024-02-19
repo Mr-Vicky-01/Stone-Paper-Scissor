@@ -31,3 +31,5 @@ The Stone-Paper-Scissor game with AI is an interactive game built using Python w
    cd Stone-Paper-Scissor
 
 ## Demo Video
+
+https://github.com/Mr-Vicky-01/Deplyment-Deep-learining/assets/143078285/be392505-773b-4764-8894-498bc3f44e63
