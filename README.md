@@ -17,7 +17,7 @@ The Stone-Paper-Scissor game with AI is an interactive game built using Python w
 ## Repository Structure
 
 - `/src`: Contains the source code for the game.
-  - `/modules`: Modules and classes for different components of the game.
+- `/modules`: Modules and classes for different components of the game.
 - `/screenshots`: Screenshots of the game in action.
 - `/models`: Saved AI model for hand gesture recognition.
 - `/tests`: Unit tests for ensuring the functionality of the code.
